@@ -1,1 +1,33 @@
-# automated__fancontrol
+
+
+## 📌 Project
+- 🌡️ Temperature Monitoring System
+
+
+## 📖 Description
+A real-time temperature monitoring system using a sensor and LCD display. It also classifies temperature (Cold / Warm / Hot).
+
+## 🧰 Components
+- Arduino Uno  
+- Temperature Sensor (LM35/TMP36)  
+- 16x2 LCD Display  
+- Resistors  
+- Breadboard & Jumper Wires  
+
+## ⚙️ Features
+✔️ Real-time temperature display  
+✔️ LCD output  
+✔️ Temperature classification  
+
+## 🧠 What I Learned
+- Sensor interfacing  
+- ADC (Analog to Digital Conversion)  
+- LCD interfacing  
+
+## 📸 Image
+<img width="1536" height="632" alt="Image" src="https://github.com/user-attachments/assets/0f164491-04a2-4474-8ffb-f1e4e04e4631" >
+
+
+## 💻 Code
+The code in detail is given here:
+[View code](smartfan.cpp)
